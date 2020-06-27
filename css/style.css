@@ -1,0 +1,25 @@
+.icone-menu{
+    width: 50px;
+}
+
+.bloco-dois, .bloco-tres, .bloco-quatro, .bloco-cinco, .bloco-seis{
+    margin-top: 50px;
+}
+
+footer {
+    color: white;
+    background: brown;
+    padding: 20px 0;
+}
+
+.a-rodape{
+    text-decoration: none;
+    color: white;
+}
+
+.a-rodape:hover{
+    text-decoration: none;
+    color: white;
+}
+
+
